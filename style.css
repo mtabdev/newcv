@@ -1,0 +1,114 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.headbox{
+
+background-image: url("https://images.unsplash.com/photo-1487700160041-babef9c3cb55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80");
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+height: 450px;
+border: none;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+.headname{
+position: absolute;
+top: 20%;
+left: 45%;
+  font-family: 'Dancing Script', cursive;
+
+font-size: 25px;
+}
+.ud{
+  text-decoration: underline;
+}
+.propic{
+  width:100%;
+  height: 160px;
+}
+.propic img{
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 45%
+
+}
+.hello{
+
+  font-family: monospace;
+  font-size: 22px;
+  text-align: center;
+  color: #0ca2c7;
+}
+.myinfo{
+  font-family: cursive;
+  text-align: center;
+  font-size: 20px;
+margin-bottom: 80px;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
+hr{
+  width: 10%;
+  border-style: dashed;
+color: #000000;
+
+}
+h2 {
+  text-align: center;
+  font-family: monospace;
+  font-size: 25px;
+  color: #bd3a7c;
+
+}
+.skill img{
+  width: 160px;
+  height:160px;
+  position: absolute;
+  left: 15%;
+}
+.skill .textdata{
+  position: absolute;
+  left: 32%;
+
+}
+.skill .textdata p{
+  color: #3d163b;
+  font-family: monospace;
+  font-size: 20px;
+}
+.android{
+  width: 100%;
+
+  margin-top: 280px;
+}
+.android img{
+  width: 160px;
+  height:160px;
+  position: absolute;
+  left: 72%;
+}
+.android .textdatatwo{
+  position: absolute;
+  left:30%;
+}
+.android .textdatatwo p{
+  color: #000000;
+  font-family: monospace;
+  font-size: 20px;
+}
+input{
+  background-color: green;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+  margin: 50px 0 0 25px;
+}
