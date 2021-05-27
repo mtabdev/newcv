@@ -5,11 +5,8 @@ body{
 
 .headbox{
 
-background-image: url("https://images.unsplash.com/photo-1487700160041-babef9c3cb55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80");
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
+background-color:D4A6B9;
+
 height: 450px;
 border: none;
 border-radius: 10px;
